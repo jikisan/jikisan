@@ -6,7 +6,7 @@ I'm a passionate **Android Developer** with nearly **4 years of experience**, sp
 
 ## 🚀 My Focus
 
-- 💻 Android App Development (Java & Kotlin)
+- 💻 Mobile App Development (Swift, Java & Kotlin)
 - 🧩 Jetpack Compose & XML UI
 - 🌐 RESTful APIs & Retrofit
 - 🏗 MVVM, Clean Architecture, Hilt
@@ -24,7 +24,7 @@ I'm a passionate **Android Developer** with nearly **4 years of experience**, sp
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jkyle/)
-- 📬 Email: [santernakyle@gmail.com](mailto:santernakyle@gmail.com)
+- 📬 [santernakyle@gmail.com](mailto:santernakyle@gmail.com)
 
 ---
 
