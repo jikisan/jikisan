@@ -8,11 +8,10 @@ I'm a passionate **Android Developer** with nearly **4 years of experience**, sp
 
 - 💻 Mobile App Development (Swift, Java & Kotlin)
 - 🧩 Jetpack Compose & XML UI
-- 🌐 RESTful APIs & Retrofit
-- 🏗 MVVM, Clean Architecture, Hilt
+- 🌐 RESTful APIs
+- 🏗 MVVM, Clean Architecture
 - 📱 Multi-platform apps (KMP)
 - 📦 SaaS & B2C mobile integrations
-- 🧠 Building smart pet-tech platforms with AI
 
 ---
 
