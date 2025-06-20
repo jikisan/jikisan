@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kyle
 
-I'm a passionate **Android Developer** with nearly **4 years of experience**, specializing in **Jetpack Compose**, **MVVM architecture**, and **Kotlin Multiplatform**. I build robust and scalable mobile apps with clean architecture, modern tools, and an eye for UI/UX quality.
+I'm a passionate **Mobile Developer** with nearly **4 years of experience**, specializing in **Jetpack Compose**, **MVVM architecture**, and **Kotlin Multiplatform**. I build robust and scalable mobile apps with clean architecture, modern tools, and an eye for UI/UX quality.
 
 ---
 
